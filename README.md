@@ -4,15 +4,13 @@
 
 **Tema:** Algoritmia
 
-**Modalidad:** Equipos de 3 personas
-
-**Objetivo:** Desarrollar en grupo algoritmos para dar solución a los problemas planteados.
+**Objetivo:** Desarrollar algoritmos para dar solución a los problemas planteados.
 
 # Descripción
 
 Desarrolla un algoritmo aprovechando cualquiera de las formas mencionadas anteriormente (lenguaje natural, diagrama de flujo o pseudocódigo). 
 
-## Carrito de compras - Pizzeria
+## Carrito de compras - Pizzería
 
 Se encuentran desarrollando un sitio de comercio electrónico para una pizzería y es momento de crear el carrito de compras.
 
