@@ -8,7 +8,7 @@
 
 # Descripción
 
-Desarrolla un algoritmo aprovechando cualquiera de las formas mencionadas anteriormente (lenguaje natural, diagrama de flujo o pseudocódigo). 
+Desarrolla un algoritmo aprovechando cualquiera de las formas mencionadas anteriormente (lenguaje natural, diagrama de flujo o pseudocódigo). Esta actividad es formativa, es decir, para que puedas practicar lo aprendido, si deseas puedes compartir tu resultado para que tus compañeros lo puedan ver en tu canal dentro de Microsoft Teams.
 
 ## Carrito de compras - Pizzería
 
