@@ -1,8 +1,6 @@
 ![Banner](assets/banner.png)
 
-# Desarrollo de Algoritmos Básicos
-
-**Tema:** Algoritmia
+# WDF M1 S1: Ejercicio de Algoritmos Básicos
 
 **Objetivo:** Desarrollar algoritmos para dar solución a los problemas planteados.
 
